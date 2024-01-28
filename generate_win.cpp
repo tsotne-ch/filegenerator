@@ -33,7 +33,7 @@ public:
 int main() {
     file File;
     
-    system("clear");
+    system("cls");
     std::cout << "\t -- Script File Generator --" << "\n";
     std::cout << "Please select a language: " << "\n";
     std::cout << "1) HTML \n";
